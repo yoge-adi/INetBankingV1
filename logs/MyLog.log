@@ -1,0 +1,355 @@
+[INFO ] 2022-06-27 23:29:51.952 [main] TC_LoginTest_001 - URL is opened
+[INFO ] 2022-06-27 23:29:52.344 [main] TC_LoginTest_001 - Entered username
+[INFO ] 2022-06-27 23:29:52.467 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2022-06-27 23:29:55.260 [main] TC_LoginTest_001 - Login test passed
+
+[INFO ] 2022-06-28 17:51:27.187 [main] TC_LoginTest_001 - URL is opened
+[INFO ] 2022-06-28 17:51:27.665 [main] TC_LoginTest_001 - Entered username
+[INFO ] 2022-06-28 17:51:27.819 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2022-06-28 17:51:30.216 [main] TC_LoginTest_001 - Login test passed
+
+[INFO ] 2022-06-28 17:54:32.255 [main] TC_LoginTest_001 - URL is opened
+[INFO ] 2022-06-28 17:54:32.665 [main] TC_LoginTest_001 - Entered username
+[INFO ] 2022-06-28 17:54:32.792 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2022-06-28 17:54:35.642 [main] TC_LoginTest_001 - Login test passed
+[INFO ] 2022-06-28 17:56:30.240 [main] TC_LoginTest_001 - URL is opened
+[INFO ] 2022-06-28 17:56:30.596 [main] TC_LoginTest_001 - Entered username
+[INFO ] 2022-06-28 17:56:30.749 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2022-06-28 17:56:33.465 [main] TC_LoginTest_001 - Login test passed
+[INFO ] 2022-06-28 17:59:37.425 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-28 17:59:37.830 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-28 17:59:38.064 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-06-28 17:59:41.561 [main] (TC_LoginTest_001) - Login test passed
+[INFO ] 2022-06-28 18:04:53.818 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-28 18:04:54.317 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-28 18:04:54.436 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-06-28 18:04:57.301 [main] (TC_LoginTest_001) - Login test passed
+[INFO ] 2022-06-28 20:37:43.054 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-28 20:37:43.352 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-28 20:37:43.441 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-06-28 20:37:46.013 [main] (TC_LoginTest_001) - Login test passed
+[INFO ] 2022-06-28 20:40:33.888 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-28 20:40:34.168 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-28 20:40:34.243 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-06-28 20:40:37.529 [main] (TC_LoginTest_001) - Login test passed
+[INFO ] 2022-06-29 17:53:38.882 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-29 17:53:39.221 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-29 17:53:39.303 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-06-29 17:53:42.209 [main] (TC_LoginTest_001) - Login test passed
+[INFO ] 2022-06-29 17:55:11.285 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-29 17:55:11.650 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-29 17:55:11.773 [main] (TC_LoginTest_001) - Entered password
+
+[INFO ] 2022-06-29 18:06:07.455 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-29 18:06:07.860 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-29 18:06:07.989 [main] (TC_LoginTest_001) - Entered password
+
+[INFO ] 2022-06-29 18:10:41.984 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-29 18:10:42.513 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-29 18:10:42.618 [main] (TC_LoginTest_001) - Entered password
+
+[INFO ] 2022-06-29 18:12:37.898 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-29 18:12:38.328 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-29 18:12:38.442 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-06-29 18:12:41.133 [main] (TC_LoginTest_001) - Login test passed
+
+[INFO ] 2022-06-29 18:28:22.821 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-29 18:28:23.258 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-29 18:28:23.407 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-06-29 18:28:26.449 [main] (TC_LoginTest_001) - Login test failed
+
+[INFO ] 2022-06-29 18:34:53.614 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-29 18:34:53.977 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-29 18:34:54.145 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-06-29 18:34:57.581 [main] (TC_LoginTest_001) - Login test failed
+
+[INFO ] 2022-06-29 19:07:22.148 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-29 19:07:22.520 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-29 19:07:22.671 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-06-29 19:07:26.278 [main] (TC_LoginTest_001) - Login test failed
+[INFO ] 2022-06-29 19:21:32.251 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-29 19:21:32.684 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-29 19:21:32.806 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-06-29 19:21:36.078 [main] (TC_LoginTest_001) - Login test failed
+[INFO ] 2022-06-29 19:22:49.914 [main] (testCases.TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-29 19:22:50.265 [main] (testCases.TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-29 19:22:50.425 [main] (testCases.TC_LoginTest_001) - Entered password
+[INFO ] 2022-06-29 19:22:53.619 [main] (testCases.TC_LoginTest_001) - Login test failed
+[INFO ] 2022-06-29 19:24:12.231 [main] (inetBanking.testCases.TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-29 19:24:12.856 [main] (inetBanking.testCases.TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-29 19:24:12.993 [main] (inetBanking.testCases.TC_LoginTest_001) - Entered password
+[INFO ] 2022-06-29 19:24:15.930 [main] (inetBanking.testCases.TC_LoginTest_001) - Login test failed
+[INFO ] 2022-06-29 19:27:06.154 [main] (1) - URL is opened
+[INFO ] 2022-06-29 19:27:06.641 [main] (1) - Entered username
+[INFO ] 2022-06-29 19:27:06.746 [main] (1) - Entered password
+[INFO ] 2022-06-29 19:27:09.830 [main] (1) - Login test failed
+[INFO ] 2022-06-29 19:31:41.226 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-29 19:31:41.623 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-29 19:31:41.761 [main] (TC_LoginTest_001) - Entered password
+[TRACE] 2022-06-29 19:31:44.662 [main] (TC_LoginTest_001) - Login test failed
+[INFO ] 2022-06-29 21:35:59.212 [main] (TC_LoginTest_001) - username provided
+[INFO ] 2022-06-29 21:35:59.307 [main] (TC_LoginTest_001) - password provided
+[INFO ] 2022-06-29 21:36:07.543 [main] (TC_LoginTest_001) - Login passed
+[INFO ] 2022-06-29 21:36:17.228 [main] (TC_LoginTest_001) - username provided
+[INFO ] 2022-06-29 21:36:17.396 [main] (TC_LoginTest_001) - password provided
+[INFO ] 2022-06-29 21:37:14.884 [main] (TC_LoginTest_001) - Login passed
+[INFO ] 2022-06-29 21:37:15.116 [main] (TC_LoginTest_001) - username provided
+[INFO ] 2022-06-29 21:37:15.260 [main] (TC_LoginTest_001) - password provided
+[INFO ] 2022-06-29 21:37:22.214 [main] (TC_LoginTest_001) - username provided
+[INFO ] 2022-06-29 21:37:22.304 [main] (TC_LoginTest_001) - password provided
+[INFO ] 2022-06-29 21:37:27.824 [main] (TC_LoginTest_001) - Login passed
+[INFO ] 2022-06-29 21:37:35.017 [main] (TC_LoginTest_001) - username provided
+[INFO ] 2022-06-29 21:37:35.221 [main] (TC_LoginTest_001) - password provided
+[INFO ] 2022-06-29 22:17:48.256 [main] (TC_LoginTest_001) - username provided
+[INFO ] 2022-06-29 22:17:48.375 [main] (TC_LoginTest_001) - password provided
+[INFO ] 2022-06-29 22:17:54.352 [main] (TC_LoginTest_001) - Login passed
+[INFO ] 2022-06-29 22:18:00.996 [main] (TC_LoginTest_001) - username provided
+[INFO ] 2022-06-29 22:18:01.178 [main] (TC_LoginTest_001) - password provided
+[INFO ] 2022-06-29 22:18:23.439 [main] (TC_LoginTest_001) - Login passed
+[INFO ] 2022-06-29 22:18:33.588 [main] (TC_LoginTest_001) - username provided
+[INFO ] 2022-06-29 22:18:33.688 [main] (TC_LoginTest_001) - password provided
+[INFO ] 2022-06-29 22:18:40.221 [main] (TC_LoginTest_001) - username provided
+[INFO ] 2022-06-29 22:18:40.371 [main] (TC_LoginTest_001) - password provided
+[INFO ] 2022-06-29 22:18:45.387 [main] (TC_LoginTest_001) - Login passed
+[INFO ] 2022-06-29 22:18:51.473 [main] (TC_LoginTest_001) - username provided
+[INFO ] 2022-06-29 22:18:51.615 [main] (TC_LoginTest_001) - password provided
+[INFO ] 2022-06-29 22:22:15.469 [main] (TC_LoginTest_001) - username provided
+[INFO ] 2022-06-29 22:22:15.574 [main] (TC_LoginTest_001) - password provided
+[INFO ] 2022-06-29 22:22:21.557 [main] (TC_LoginTest_001) - Login passed
+[INFO ] 2022-06-29 22:22:32.412 [main] (TC_LoginTest_001) - username provided
+[INFO ] 2022-06-29 22:22:32.521 [main] (TC_LoginTest_001) - password provided
+[INFO ] 2022-06-29 22:23:10.148 [main] (TC_LoginTest_001) - Login passed
+[INFO ] 2022-06-29 22:23:20.395 [main] (TC_LoginTest_001) - username provided
+[INFO ] 2022-06-29 22:23:20.509 [main] (TC_LoginTest_001) - password provided
+[WARN ] 2022-06-29 22:23:26.723 [main] (TC_LoginTest_001) - Login Failed
+[INFO ] 2022-06-29 22:23:26.887 [main] (TC_LoginTest_001) - username provided
+[INFO ] 2022-06-29 22:23:27.050 [main] (TC_LoginTest_001) - password provided
+[INFO ] 2022-06-29 22:23:31.820 [main] (TC_LoginTest_001) - Login passed
+[INFO ] 2022-06-29 22:23:38.335 [main] (TC_LoginTest_001) - username provided
+[INFO ] 2022-06-29 22:23:38.437 [main] (TC_LoginTest_001) - password provided
+[WARN ] 2022-06-29 22:23:44.886 [main] (TC_LoginTest_001) - Login Failed
+[INFO ] 2022-06-29 22:41:03.038 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-29 22:41:03.127 [main] (TC_LoginDDT_002) - password provided
+[INFO ] 2022-06-29 22:41:08.316 [main] (TC_LoginDDT_002) - Login passed
+[INFO ] 2022-06-29 22:41:15.109 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-29 22:41:15.193 [main] (TC_LoginDDT_002) - password provided
+[WARN ] 2022-06-29 22:41:22.569 [main] (TC_LoginDDT_002) - Login Failed
+[INFO ] 2022-06-29 22:41:22.746 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-29 22:41:22.825 [main] (TC_LoginDDT_002) - password provided
+[WARN ] 2022-06-29 22:41:29.860 [main] (TC_LoginDDT_002) - Login Failed
+[INFO ] 2022-06-29 22:41:30.079 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-29 22:41:30.173 [main] (TC_LoginDDT_002) - password provided
+[INFO ] 2022-06-29 22:41:36.277 [main] (TC_LoginDDT_002) - Login passed
+[INFO ] 2022-06-29 22:41:42.882 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-29 22:41:42.986 [main] (TC_LoginDDT_002) - password provided
+[WARN ] 2022-06-29 22:41:49.862 [main] (TC_LoginDDT_002) - Login Failed
+[INFO ] 2022-06-29 22:48:32.479 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-29 22:48:32.571 [main] (TC_LoginDDT_002) - password provided
+[INFO ] 2022-06-29 22:48:38.526 [main] (TC_LoginDDT_002) - Login passed
+[INFO ] 2022-06-29 22:48:45.086 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-29 22:48:45.224 [main] (TC_LoginDDT_002) - password provided
+[WARN ] 2022-06-29 22:48:52.164 [main] (TC_LoginDDT_002) - Login Failed
+[INFO ] 2022-06-29 22:48:52.472 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-29 22:48:52.566 [main] (TC_LoginDDT_002) - password provided
+[WARN ] 2022-06-29 22:48:59.548 [main] (TC_LoginDDT_002) - Login Failed
+[INFO ] 2022-06-29 22:48:59.768 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-29 22:48:59.851 [main] (TC_LoginDDT_002) - password provided
+[INFO ] 2022-06-29 22:49:04.629 [main] (TC_LoginDDT_002) - Login passed
+[INFO ] 2022-06-29 22:49:10.768 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-29 22:49:10.899 [main] (TC_LoginDDT_002) - password provided
+[WARN ] 2022-06-29 22:49:18.086 [main] (TC_LoginDDT_002) - Login Failed
+[INFO ] 2022-06-30 20:57:37.745 [main] (TC_AddCustomerTest_003) - username is passed
+[INFO ] 2022-06-30 20:57:37.833 [main] (TC_AddCustomerTest_003) - password is provided
+[INFO ] 2022-06-30 20:57:43.850 [main] (TC_AddCustomerTest_003) - Providing customer details...
+[INFO ] 2022-06-30 20:57:57.206 [main] (TC_AddCustomerTest_003) - Validation started....
+[INFO ] 2022-06-30 20:57:57.224 [main] (TC_AddCustomerTest_003) - Test Case Failed....
+[INFO ] 2022-06-30 21:05:18.375 [main] (TC_AddCustomerTest_003) - URL is opened
+[INFO ] 2022-06-30 21:05:18.796 [main] (TC_AddCustomerTest_003) - Entered username
+[INFO ] 2022-06-30 21:05:18.915 [main] (TC_AddCustomerTest_003) - Entered password
+[INFO ] 2022-06-30 21:05:21.779 [main] (TC_AddCustomerTest_003) - Login test failed
+[INFO ] 2022-06-30 21:05:37.411 [main] (TC_AddCustomerTest_003) - username provided
+[INFO ] 2022-06-30 21:05:37.662 [main] (TC_AddCustomerTest_003) - password provided
+[INFO ] 2022-06-30 21:05:43.206 [main] (TC_AddCustomerTest_003) - Login passed
+[INFO ] 2022-06-30 21:05:50.909 [main] (TC_AddCustomerTest_003) - username provided
+[INFO ] 2022-06-30 21:05:51.006 [main] (TC_AddCustomerTest_003) - password provided
+[INFO ] 2022-06-30 21:06:14.046 [main] (TC_AddCustomerTest_003) - Login passed
+[INFO ] 2022-06-30 21:06:24.301 [main] (TC_AddCustomerTest_003) - username provided
+[INFO ] 2022-06-30 21:06:24.381 [main] (TC_AddCustomerTest_003) - password provided
+[WARN ] 2022-06-30 21:06:31.850 [main] (TC_AddCustomerTest_003) - Login Failed
+[INFO ] 2022-06-30 21:06:32.161 [main] (TC_AddCustomerTest_003) - username provided
+[INFO ] 2022-06-30 21:06:32.242 [main] (TC_AddCustomerTest_003) - password provided
+[INFO ] 2022-06-30 21:06:39.250 [main] (TC_AddCustomerTest_003) - Login passed
+[INFO ] 2022-06-30 21:06:46.307 [main] (TC_AddCustomerTest_003) - username provided
+[INFO ] 2022-06-30 21:06:46.449 [main] (TC_AddCustomerTest_003) - password provided
+[WARN ] 2022-06-30 21:06:53.602 [main] (TC_AddCustomerTest_003) - Login Failed
+[INFO ] 2022-06-30 21:07:02.752 [main] (TC_AddCustomerTest_003) - username is passed
+[INFO ] 2022-06-30 21:07:02.840 [main] (TC_AddCustomerTest_003) - password is provided
+[INFO ] 2022-06-30 21:07:08.348 [main] (TC_AddCustomerTest_003) - Providing customer details...
+[INFO ] 2022-06-30 21:07:24.439 [main] (TC_AddCustomerTest_003) - Validation started....
+[INFO ] 2022-06-30 21:07:24.457 [main] (TC_AddCustomerTest_003) - Test Case Failed....
+[INFO ] 2022-06-30 21:09:04.183 [main] (TC_AddCustomerTest_003) - URL is opened
+[INFO ] 2022-06-30 21:09:04.563 [main] (TC_AddCustomerTest_003) - Entered username
+[INFO ] 2022-06-30 21:09:04.656 [main] (TC_AddCustomerTest_003) - Entered password
+[INFO ] 2022-06-30 21:09:07.380 [main] (TC_AddCustomerTest_003) - Login test failed
+[INFO ] 2022-06-30 21:09:17.114 [main] (TC_AddCustomerTest_003) - username provided
+[INFO ] 2022-06-30 21:09:17.208 [main] (TC_AddCustomerTest_003) - password provided
+[INFO ] 2022-06-30 21:09:24.046 [main] (TC_AddCustomerTest_003) - Login passed
+[INFO ] 2022-06-30 21:09:30.721 [main] (TC_AddCustomerTest_003) - username provided
+[INFO ] 2022-06-30 21:09:30.856 [main] (TC_AddCustomerTest_003) - password provided
+[WARN ] 2022-06-30 21:09:38.212 [main] (TC_AddCustomerTest_003) - Login Failed
+[INFO ] 2022-06-30 21:09:38.465 [main] (TC_AddCustomerTest_003) - username provided
+[INFO ] 2022-06-30 21:09:38.645 [main] (TC_AddCustomerTest_003) - password provided
+[WARN ] 2022-06-30 21:09:44.793 [main] (TC_AddCustomerTest_003) - Login Failed
+[INFO ] 2022-06-30 21:09:45.258 [main] (TC_AddCustomerTest_003) - username provided
+[INFO ] 2022-06-30 21:09:45.342 [main] (TC_AddCustomerTest_003) - password provided
+[INFO ] 2022-06-30 21:09:50.660 [main] (TC_AddCustomerTest_003) - Login passed
+[INFO ] 2022-06-30 21:09:57.768 [main] (TC_AddCustomerTest_003) - username provided
+[INFO ] 2022-06-30 21:09:57.944 [main] (TC_AddCustomerTest_003) - password provided
+[INFO ] 2022-06-30 21:10:39.316 [main] (TC_AddCustomerTest_003) - Login passed
+[INFO ] 2022-06-30 21:10:56.137 [main] (TC_AddCustomerTest_003) - username is passed
+[INFO ] 2022-06-30 21:10:56.283 [main] (TC_AddCustomerTest_003) - password is provided
+[INFO ] 2022-06-30 21:11:02.811 [main] (TC_AddCustomerTest_003) - Providing customer details...
+[INFO ] 2022-06-30 21:11:15.299 [main] (TC_AddCustomerTest_003) - Validation started....
+[INFO ] 2022-06-30 21:11:15.311 [main] (TC_AddCustomerTest_003) - Test Case Failed....
+
+[INFO ] 2022-06-30 21:25:06.217 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-30 21:25:06.837 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-30 21:25:06.963 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-06-30 21:25:09.896 [main] (TC_LoginTest_001) - Login test failed
+[INFO ] 2022-06-30 21:25:20.759 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-30 21:25:20.895 [main] (TC_LoginDDT_002) - password provided
+[INFO ] 2022-06-30 21:25:29.981 [main] (TC_LoginDDT_002) - Login passed
+[INFO ] 2022-06-30 21:26:18.018 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-30 21:26:18.145 [main] (TC_LoginDDT_002) - password provided
+[WARN ] 2022-06-30 21:26:25.895 [main] (TC_LoginDDT_002) - Login Failed
+[INFO ] 2022-06-30 21:26:26.228 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-30 21:26:26.414 [main] (TC_LoginDDT_002) - password provided
+[WARN ] 2022-06-30 21:26:34.473 [main] (TC_LoginDDT_002) - Login Failed
+[INFO ] 2022-06-30 21:26:34.845 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-30 21:26:34.930 [main] (TC_LoginDDT_002) - password provided
+[INFO ] 2022-06-30 21:26:40.950 [main] (TC_LoginDDT_002) - Login passed
+[INFO ] 2022-06-30 21:26:48.165 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-30 21:26:48.269 [main] (TC_LoginDDT_002) - password provided
+[WARN ] 2022-06-30 21:26:56.410 [main] (TC_LoginDDT_002) - Login Failed
+[INFO ] 2022-06-30 21:27:10.582 [main] (TC_AddCustomerTest_003) - username is provided
+[INFO ] 2022-06-30 21:27:10.665 [main] (TC_AddCustomerTest_003) - password is provided
+[INFO ] 2022-06-30 21:27:16.861 [main] (TC_AddCustomerTest_003) - Providing customer details...
+[INFO ] 2022-06-30 21:27:36.874 [main] (TC_AddCustomerTest_003) - Validation started....
+[INFO ] 2022-06-30 21:27:36.911 [main] (TC_AddCustomerTest_003) - Test Case Failed....
+[INFO ] 2022-06-30 21:33:55.332 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-30 21:33:55.448 [main] (TC_LoginDDT_002) - password provided
+[WARN ] 2022-06-30 21:34:01.867 [main] (TC_LoginDDT_002) - Login Failed
+[INFO ] 2022-06-30 21:34:02.342 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-30 21:34:02.441 [main] (TC_LoginDDT_002) - password provided
+[WARN ] 2022-06-30 21:34:09.742 [main] (TC_LoginDDT_002) - Login Failed
+[INFO ] 2022-06-30 21:34:10.246 [main] (TC_LoginDDT_002) - username provided
+[INFO ] 2022-06-30 21:34:10.334 [main] (TC_LoginDDT_002) - password provided
+[WARN ] 2022-06-30 21:34:17.394 [main] (TC_LoginDDT_002) - Login Failed
+[INFO ] 2022-06-30 21:34:34.065 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-06-30 21:34:34.417 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-06-30 21:34:34.518 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-06-30 21:34:37.487 [main] (TC_LoginTest_001) - Login test failed
+[INFO ] 2022-06-30 21:34:52.200 [main] (TC_AddCustomerTest_003) - username is provided
+[INFO ] 2022-06-30 21:34:52.358 [main] (TC_AddCustomerTest_003) - password is provided
+[INFO ] 2022-06-30 21:34:59.049 [main] (TC_AddCustomerTest_003) - Providing customer details...
+[INFO ] 2022-06-30 21:35:12.556 [main] (TC_AddCustomerTest_003) - Validation started....
+[INFO ] 2022-06-30 21:35:12.588 [main] (TC_AddCustomerTest_003) - Test Case Failed....
+[INFO ] 2022-06-30 22:25:36.959 [main] (TC_EditCustomerTest_004) - username is provided to edit the customer details..
+[INFO ] 2022-06-30 22:25:37.061 [main] (TC_EditCustomerTest_004) - password is provided for edit customer details..
+[INFO ] 2022-06-30 22:25:48.236 [main] (TC_EditCustomerTest_004) - Custeomer id is provided for edit the customer..
+[INFO ] 2022-06-30 22:25:48.886 [main] (TC_EditCustomerTest_004) - Validation started for edit customer details
+[INFO ] 2022-06-30 22:25:48.897 [main] (TC_EditCustomerTest_004) - Test case failed
+[INFO ] 2022-06-30 22:27:30.182 [main] (TC_EditCustomerTest_004) - username is provided to edit the customer details..
+[INFO ] 2022-06-30 22:27:30.286 [main] (TC_EditCustomerTest_004) - password is provided for edit customer details..
+[INFO ] 2022-06-30 22:27:40.856 [main] (TC_EditCustomerTest_004) - Custeomer id is provided for edit the customer..
+[INFO ] 2022-06-30 22:27:41.361 [main] (TC_EditCustomerTest_004) - Validation started for edit customer details
+[INFO ] 2022-06-30 22:27:41.376 [main] (TC_EditCustomerTest_004) - Test case failed
+[INFO ] 2022-07-01 22:12:15.856 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-01 22:18:27.145 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-01 22:18:27.519 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-01 22:18:27.622 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-01 22:23:05.930 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-01 22:23:06.485 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-01 22:23:06.599 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-01 22:24:30.262 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-01 22:24:30.628 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-01 22:24:30.716 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-01 22:26:24.676 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-01 22:26:24.998 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-01 22:26:25.108 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 11:40:03.320 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 11:40:03.827 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 11:40:03.911 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 11:44:47.447 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 11:44:47.894 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 11:44:47.980 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 11:48:32.374 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 11:48:32.729 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 11:48:32.863 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 11:50:57.306 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 11:50:57.762 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 11:50:58.014 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 11:55:04.106 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 11:55:04.533 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 11:55:04.624 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 11:59:55.666 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 11:59:56.091 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 11:59:56.179 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 12:02:40.594 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 12:02:40.957 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 12:02:41.146 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 12:07:30.401 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 12:07:30.785 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 12:07:30.913 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 12:09:59.120 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 12:09:59.501 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 12:10:53.541 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 12:16:05.017 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 12:16:05.343 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 12:16:05.431 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 12:17:32.912 [main] (TC_AddCustomerTest_003) - username is provided
+[INFO ] 2022-07-03 12:17:33.203 [main] (TC_AddCustomerTest_003) - password is provided
+[INFO ] 2022-07-03 12:17:38.903 [main] (TC_AddCustomerTest_003) - Providing customer details...
+[INFO ] 2022-07-03 12:20:48.522 [main] (TC_AddCustomerTest_003) - username is provided
+[INFO ] 2022-07-03 12:20:48.644 [main] (TC_AddCustomerTest_003) - password is provided
+[INFO ] 2022-07-03 12:22:03.321 [main] (TC_AddCustomerTest_003) - Providing customer details...
+[INFO ] 2022-07-03 12:50:58.005 [main] (TC_AddCustomerTest_003) - username is provided
+[INFO ] 2022-07-03 12:50:58.111 [main] (TC_AddCustomerTest_003) - password is provided
+[INFO ] 2022-07-03 12:51:46.449 [main] (TC_AddCustomerTest_003) - Providing customer details...
+[INFO ] 2022-07-03 12:53:53.684 [main] (TC_AddCustomerTest_003) - username is provided
+[INFO ] 2022-07-03 12:53:53.811 [main] (TC_AddCustomerTest_003) - password is provided
+[INFO ] 2022-07-03 13:07:16.124 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 13:07:16.678 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 13:07:16.812 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 13:09:35.355 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 13:09:35.793 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 13:09:35.889 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 13:11:59.784 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 13:12:00.162 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 13:12:00.331 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 13:16:25.372 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 13:16:25.768 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 13:16:25.894 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 13:19:20.493 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 13:19:21.023 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 13:19:21.140 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 13:20:39.785 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 13:20:40.372 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 13:20:40.556 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 13:20:52.436 [main] (TC_LoginTest_001) - Login test passed
+[INFO ] 2022-07-03 13:23:30.861 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 13:23:32.874 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 13:23:33.082 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 13:26:53.935 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 13:26:54.507 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 13:26:54.726 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 13:27:37.635 [main] (TC_LoginTest_001) - hi*****************
+[INFO ] 2022-07-03 13:27:37.644 [main] (TC_LoginTest_001) - Login test passed
+[INFO ] 2022-07-03 13:29:41.649 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 13:29:42.107 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 13:29:42.283 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 13:32:06.300 [main] (TC_LoginTest_001) - URL is opened
+[INFO ] 2022-07-03 13:32:06.761 [main] (TC_LoginTest_001) - Entered username
+[INFO ] 2022-07-03 13:32:06.880 [main] (TC_LoginTest_001) - Entered password
+[INFO ] 2022-07-03 13:32:09.264 [main] (TC_LoginTest_001) - hi*****************
+[INFO ] 2022-07-03 13:32:09.278 [main] (TC_LoginTest_001) - Login test passed
